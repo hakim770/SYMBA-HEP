@@ -1,6 +1,4 @@
 # SYMBA-HEP
 
-This is a repository for paper: \n
-SYMBOLIC COMPUTATION OF SQUARED AMPLITUDES IN HIGH ENERGY PHYSICS WITH MACHINE LEARNING \n
-
+This is a repository for paper:
 https://arxiv.org/abs/2206.08901
